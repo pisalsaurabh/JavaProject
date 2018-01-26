@@ -75,6 +75,8 @@ The application will cover the functionalities like add parts to the inventory, 
 
 ### Please View the Video for complete Project description
 
+> https://github.com/pisalsaurabh/JavaProject/blob/master/AS_Automobile%20Service%20Management%20System%202017-12-02_19-49-44.mp4
+
 ---
 
 ## Licence and Copy Right
